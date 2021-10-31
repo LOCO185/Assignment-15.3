@@ -1,0 +1,25 @@
+.container {
+    width: auto;
+    height: 100vh;
+    display: flex;
+    background-color: lightslategray;
+    justify-content: end;
+}
+.box1 {
+    height: 20vh;
+    width: 20vh;
+    background-color: aqua;
+    align-self: flex-end;
+}
+.box2 {
+    height: 20vh;
+    width: 20vh;
+    background-color: chocolate;
+    align-self: flex-end;
+}
+.box3 {
+    height: 20vh;
+    width: 20vh;
+    background-color: indianred;
+    align-self: flex-end;
+}
